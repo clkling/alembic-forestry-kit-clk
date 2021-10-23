@@ -2,7 +2,7 @@
 title: Hello World
 categories:
 - General
-feature_image: "/uploads/mvimg_20180527_101249.jpg"
+feature_image: "/uploads/mvimg_20180801_131231.jpg"
 feature_text: ''
 aside: false
 excerpt: ''
