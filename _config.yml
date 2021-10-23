@@ -21,12 +21,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://clk.science'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'CLK Website'
+description: 'Corbins professional website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: 
 
 # Pagination
 paginate: 5
