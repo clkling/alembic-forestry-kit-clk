@@ -13,6 +13,10 @@ Hi, my name is Corbin Kling, I am studying structural geology with an emphasis i
 
 ![](/uploads/img_20160716_164403.jpg)
 
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="shared-assets/models/NeilArmstrong.glb" ar ar-modes="webxr scene-viewer quick-look" environment-image="shared-assets/environments/moon_1k.hdr" poster="assets/NeilArmstrong.webp" seamless-poster shadow-intensity="1" camera-controls></model-viewer>
+
 My most recent work has included:
 
 1\. A large mapping project studying how pit craters influenced the formation Noctis Labyrinthus, Mars. I have mapped all normal faults, impact craters, and pit craters within Noctis Labyrnithus, Mars. Additionally I have found abundant evidence for periglacial processes post emplacement of the pit craters indicating some large volatile reservoir was present within the subsurface.
@@ -32,6 +36,3 @@ Additionally I have been interested in aeolian processes, specifically linear du
 ![](/uploads/pano_20180517_190157.jpg)
 
 
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-
-<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="shared-assets/models/NeilArmstrong.glb" ar ar-modes="webxr scene-viewer quick-look" environment-image="shared-assets/environments/moon_1k.hdr" poster="assets/NeilArmstrong.webp" seamless-poster shadow-intensity="1" camera-controls></model-viewer>
