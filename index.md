@@ -1,8 +1,10 @@
 ---
-title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
----
+title: Geologist, Planetary Scientist, Professional Drone Enthusiast
+feature_image: "/uploads/pano_20170429_175915.jpg"
+feature_text: "## Corbin L. Kling, Ph.D."
+aside: false
 
-There isn't much going on here yet, but watch this space
+---
+Welcome to Corbin's personal website. You can find details about my science, drone, and side projects. 
+
+![](/uploads/img_20160716_164403.jpg)
