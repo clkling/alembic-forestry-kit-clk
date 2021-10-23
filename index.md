@@ -5,6 +5,6 @@ feature_text: "## Corbin L. Kling, Ph.D."
 aside: false
 
 ---
-Welcome to Corbin's personal website. You can find details about my science, drone, and side projects. 
+Welcome to Corbin's personal website. You can find details about my science, drone, and side projects.
 
-![](/uploads/img_20160716_164403.jpg)
+![corbin standing in front of the large thrust fault in the bighorn mountains](/uploads/img_20160716_164403.jpg "corbin in the bighorn mountains")
