@@ -30,3 +30,8 @@ I am interested in a whole lot of things other than geology too, mainly drones, 
 Additionally I have been interested in aeolian processes, specifically linear dune formation and modification over time. I have been utilizing repeated drone surveys to study how linear dunes are changing in the Simpson Desert in Australia in support of a larger project being organized by Dr. Bob Craddock from the Center of Earth and Planetary Studies at the National Air and Space Museum.
 
 ![](/uploads/pano_20180517_190157.jpg)
+
+
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="shared-assets/models/NeilArmstrong.glb" ar ar-modes="webxr scene-viewer quick-look" environment-image="shared-assets/environments/moon_1k.hdr" poster="assets/NeilArmstrong.webp" seamless-poster shadow-intensity="1" camera-controls></model-viewer>
