@@ -23,6 +23,7 @@ fields:
   label: Aside
   description: Show the sidebar / aside
 pages:
+- 3d-models.html
 - 404.md
 - about.md
 - index.md
